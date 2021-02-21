@@ -8,6 +8,7 @@ for Stream Processing](https://research.fb.com/wp-content/uploads/2020/05/Turbin
 * [Twine: A Unified Cluster Management System for Shared Infrastructure](https://engineering.fb.com/2020/11/11/data-center-engineering/twine-2/)
 * [The CacheLib Caching Engine: Design and Experiences at Scale](https://research.fb.com/publications/the-cachelib-caching-engine-design-and-experiences-at-scale/)
 * [Presto: SQL on Everything](https://research.fb.com/publications/presto-sql-on-everything/)
+* [Gorilla Compression](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 
 
 ## Blog posts
