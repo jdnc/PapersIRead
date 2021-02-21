@@ -12,7 +12,7 @@ for Stream Processing](https://research.fb.com/wp-content/uploads/2020/05/Turbin
 
 ## Blog posts
 * [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
-* [OOMD](https://engineering.fb.com/2018/07/19/production-engineering/oomd/)
+* [oomd, a new approach to handling OOMs](https://engineering.fb.com/2018/07/19/production-engineering/oomd/)
 * [XARs](https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/)
 
 ## Interesting docs
