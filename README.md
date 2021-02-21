@@ -15,6 +15,7 @@ for Stream Processing](https://research.fb.com/wp-content/uploads/2020/05/Turbin
 * [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 * [oomd, a new approach to handling OOMs](https://engineering.fb.com/2018/07/19/production-engineering/oomd/)
 * [XARs](https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/)
+* [5 ways Facebook improved compression at scale with Zstandard](https://engineering.fb.com/2018/12/19/core-data/zstandard/)
 
 ## Interesting docs
 * [Thrift Compact protocol encoding](https://github.com/apache/thrift/blob/master/doc/specs/thrift-compact-protocol.md)
