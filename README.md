@@ -1,5 +1,5 @@
 # Papers I read
----
+
 # 2021
 ## Papers
 * [Thrift: Scalable Cross-Language Services Implementation](https://thrift.apache.org/static/files/thrift-20070401.pdf)
