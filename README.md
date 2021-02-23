@@ -19,3 +19,11 @@
 ## Interesting docs
 - [ ] [Thrift Compact protocol encoding](https://github.com/apache/thrift/blob/master/doc/specs/thrift-compact-protocol.md)
 - [ ] [LogDevice](https://logdevice.io/docs/Concepts.html)
+
+## Books
+- [x] [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [Readings in Database Systems ](http://www.redbook.io/)
+- [ ] [Streaming Systems](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876)
+- [ ] [Understanding Compression: Data Compression for Modern Developers](https://www.amazon.com/Understanding-Compression-Data-Modern-Developers/dp/1491961538/)
+- [ ] [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347/)
+- [ ] [C++17 - The Complete Guide](https://www.amazon.com/C-17-Complete-Guide-First/dp/396730017X)
