@@ -8,6 +8,7 @@
 - [ ] [The CacheLib Caching Engine: Design and Experiences at Scale](https://research.fb.com/publications/the-cachelib-caching-engine-design-and-experiences-at-scale/)
 - [ ] [Presto: SQL on Everything](https://research.fb.com/publications/presto-sql-on-everything/)
 - [x] [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
+- [ ] [The Dataflow Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
 
 
 ## Blog posts
