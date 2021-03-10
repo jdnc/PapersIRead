@@ -5,7 +5,7 @@
 - [x] [Thrift: Scalable Cross-Language Services Implementation](https://thrift.apache.org/static/files/thrift-20070401.pdf)
 - [x] [Turbine: Facebook’s Service Management Platform for Stream Processing](https://research.fb.com/wp-content/uploads/2020/05/Turbine-Facebook%E2%80%99s-Service-Management-Platform-for-Stream-Processing.pdf)
 - [ ] [Twine: A Unified Cluster Management System for Shared Infrastructure](https://engineering.fb.com/2020/11/11/data-center-engineering/twine-2/)
-- [ ] [The CacheLib Caching Engine: Design and Experiences at Scale](https://research.fb.com/publications/the-cachelib-caching-engine-design-and-experiences-at-scale/)
+- [x] [The CacheLib Caching Engine: Design and Experiences at Scale](https://research.fb.com/publications/the-cachelib-caching-engine-design-and-experiences-at-scale/)
 - [ ] [Presto: SQL on Everything](https://research.fb.com/publications/presto-sql-on-everything/)
 - [x] [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 - [ ] [The Dataflow Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
@@ -16,6 +16,7 @@
 - [ ] [oomd, a new approach to handling OOMs](https://engineering.fb.com/2018/07/19/production-engineering/oomd/)
 - [ ] [XARs](https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/)
 - [ ] [5 ways Facebook improved compression at scale with Zstandard](https://engineering.fb.com/2018/12/19/core-data/zstandard/)
+- [x] [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
 ## Interesting docs
 - [ ] [Thrift Compact protocol encoding](https://github.com/apache/thrift/blob/master/doc/specs/thrift-compact-protocol.md)
