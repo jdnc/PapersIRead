@@ -17,6 +17,7 @@
 - [ ] [XARs](https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/)
 - [ ] [5 ways Facebook improved compression at scale with Zstandard](https://engineering.fb.com/2018/12/19/core-data/zstandard/)
 - [x] [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
+- [x] [42 things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 
 ## Interesting docs
 - [ ] [Thrift Compact protocol encoding](https://github.com/apache/thrift/blob/master/doc/specs/thrift-compact-protocol.md)
