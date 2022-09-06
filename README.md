@@ -9,6 +9,8 @@
 - [ ] [Presto: SQL on Everything](https://research.fb.com/publications/presto-sql-on-everything/)
 - [x] [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 - [ ] [The Dataflow Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
+- [ ] [Schema-First Application Telemetry](https://dl.acm.org/doi/10.1145/3544497.3544500)
+- [ ] [Velox: Meta’s Unified Execution Engine](https://research.facebook.com/publications/velox-metas-unified-execution-engine/)
 
 
 ## Blog posts
