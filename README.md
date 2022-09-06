@@ -1,6 +1,6 @@
 # Papers I read
 
-# 2021
+
 ## Papers
 - [x] [Thrift: Scalable Cross-Language Services Implementation](https://thrift.apache.org/static/files/thrift-20070401.pdf)
 - [x] [Turbine: Facebook’s Service Management Platform for Stream Processing](https://research.fb.com/wp-content/uploads/2020/05/Turbine-Facebook%E2%80%99s-Service-Management-Platform-for-Stream-Processing.pdf)
