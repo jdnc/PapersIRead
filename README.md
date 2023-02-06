@@ -2,6 +2,7 @@
 
 
 ## Papers
+**2022**
 - [x] [Thrift: Scalable Cross-Language Services Implementation](https://thrift.apache.org/static/files/thrift-20070401.pdf)
 - [x] [Turbine: Facebook’s Service Management Platform for Stream Processing](https://research.fb.com/wp-content/uploads/2020/05/Turbine-Facebook%E2%80%99s-Service-Management-Platform-for-Stream-Processing.pdf)
 - [ ] [Twine: A Unified Cluster Management System for Shared Infrastructure](https://engineering.fb.com/2020/11/11/data-center-engineering/twine-2/)
@@ -12,14 +13,23 @@
 - [ ] [Schema-First Application Telemetry](https://dl.acm.org/doi/10.1145/3544497.3544500)
 - [ ] [Velox: Meta’s Unified Execution Engine](https://research.facebook.com/publications/velox-metas-unified-execution-engine/)
 
+**2023**
+- [] [Meta’s Next-generation Realtime Monitoring and Analytics Platform](https://www.vldb.org/pvldb/vol15/p3522-mo.pdf)
+- [] [Schema-First Application Telemetry](https://research.facebook.com/publications/positional-paper-schema-first-application-telemetry/)
+
 
 ## Blog posts
+**2022**
 - [ ] [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 - [ ] [oomd, a new approach to handling OOMs](https://engineering.fb.com/2018/07/19/production-engineering/oomd/)
 - [ ] [XARs](https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/)
 - [ ] [5 ways Facebook improved compression at scale with Zstandard](https://engineering.fb.com/2018/12/19/core-data/zstandard/)
 - [x] [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 - [x] [42 things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
+
+**2023**
+-[] [Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
+-[] 
 
 ## Interesting docs
 - [ ] [Thrift Compact protocol encoding](https://github.com/apache/thrift/blob/master/doc/specs/thrift-compact-protocol.md)
