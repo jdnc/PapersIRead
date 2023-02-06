@@ -28,7 +28,7 @@
 - [x] [42 things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 
 **2023**
--[ ] [Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
+- [ ] [Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
 
 
 ## Interesting docs
