@@ -14,8 +14,8 @@
 - [ ] [Velox: Meta’s Unified Execution Engine](https://research.facebook.com/publications/velox-metas-unified-execution-engine/)
 
 **2023**
-- [] [Meta’s Next-generation Realtime Monitoring and Analytics Platform](https://www.vldb.org/pvldb/vol15/p3522-mo.pdf)
-- [] [Schema-First Application Telemetry](https://research.facebook.com/publications/positional-paper-schema-first-application-telemetry/)
+- [ ] [Meta’s Next-generation Realtime Monitoring and Analytics Platform](https://www.vldb.org/pvldb/vol15/p3522-mo.pdf)
+- [ ] [Schema-First Application Telemetry](https://research.facebook.com/publications/positional-paper-schema-first-application-telemetry/)
 
 
 ## Blog posts
@@ -28,8 +28,8 @@
 - [x] [42 things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 
 **2023**
--[] [Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
--[] 
+-[ ] [Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
+
 
 ## Interesting docs
 - [ ] [Thrift Compact protocol encoding](https://github.com/apache/thrift/blob/master/doc/specs/thrift-compact-protocol.md)
